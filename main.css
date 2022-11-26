@@ -1,0 +1,179 @@
+html{
+    /*background-image:url("Jeen\ Mata\ Photo\ Jeen\ Mata\ Mandir\ Rajasthan.png");*/
+    background: transparent;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    position:relative;
+    
+}
+h1{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+h1 a{
+    text-decoration: none;
+    color:black;
+}
+h1 a:hover{
+    
+    background-color: white;
+    color:rgb(144, 181, 116);
+    border-radius: 10px;
+}
+#heading{
+  
+    text-align:start;
+    border: 2px solid whitesmoke;
+    border-color:transparent;
+    background-color:transparent;
+    color: white;
+    position: sticky;
+    color: #88b06a;
+    font-family: "Raleway",sans-serif;
+}
+
+
+ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    background-color:transparent;
+    
+}
+li a{
+    float: left;
+    display: block;
+    color:black;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    min-width: 10%;
+    border: 2px solid white;
+    border-color:transparent
+}
+
+li a:hover{
+    background-color:lightgray;
+    color: black;
+    border-radius: 15px;
+    border-color: transparent;
+}
+
+#main_index{
+    border-top: 3px solid black;
+     
+    
+}
+#intro{
+    text-align: center;
+    border: 2px solid black;
+    background-color:whitesmoke;
+    color:black;
+    font-size: 20px;
+    position: relative;
+    top: 0xp;
+    width:90%;
+    padding-top:25px;
+    left:5%;
+    border-radius: 25px;
+    border-color: transparent;
+    
+}
+#intro1{
+    position: relative;
+    /*border: 1px solid black;*/
+    top: -23px;
+    font-size: 15px;
+
+}
+#intro_paragraph{
+    position: relative;
+    border: 2px solid black;
+    left: 5%;
+    top: 50px;                  /* all vertical position are take form here*/
+    width: 60%;
+    padding:10px 20px;
+    background-color: whitesmoke;
+    border-radius: 25px;
+    border-color: transparent;
+}
+#intro_paragraph2{
+    font-size: 18px;
+    
+}
+/*#intro_paragraph1{
+    border: 2px solid black;
+}*/
+
+#imges{
+    border: 2px solid black;
+    position: relative;
+    top: 100px;
+    left: 5%;
+    width: 90%;
+    border-style:hidden ;
+}
+#img_1{
+    position: relative;
+    border: 1px solid yellow;
+    left: 5%;
+    width: 40%;
+    border-radius: 25px;
+    background-color: black;
+    border-color: transparent;
+
+}
+#img_2{
+    position: relative;
+    border: 1px solid red;
+    left: 15%;
+    width: 40%;
+    border-radius: 25px;
+    background-color: black;
+    border-color: transparent;
+}
+#about{
+    position: relative;
+    border: 2px solid black;
+    top: 148px;
+    width: 90%;
+    left: 5%;
+    min-height:500px;
+    background-color: whitesmoke;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-color: transparent;
+}
+#locat_1{
+    /*padding-left: 10%;*/
+    min-height: 30%;
+    max-height: 60%;
+    /*padding-top: 62px;*/
+    border: 2px solid black;
+    width: 40%;
+    margin-left: 5%;
+    margin-top: 6%;
+    border-style: hidden;
+    
+}
+#locat_2{                   /* A BLANK BLOCK*/
+    min-height: 295px;
+    /*padding-top: 62px;*/
+    border: 2px solid black;
+    width: 40%;
+    margin-left: 55%;
+    margin-top: -300px;
+    border-style: hidden;
+    
+}
+#locat_1 a:hover{
+    border: 1px gray solid;
+    border-radius: 15px;
+    
+}
